@@ -1,0 +1,16 @@
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\bin\Debug\netcoreapp3.1\Pregunta 3.exe
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\bin\Debug\netcoreapp3.1\Pregunta 3.deps.json
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\bin\Debug\netcoreapp3.1\Pregunta 3.runtimeconfig.json
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\bin\Debug\netcoreapp3.1\Pregunta 3.runtimeconfig.dev.json
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\bin\Debug\netcoreapp3.1\Pregunta 3.dll
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\bin\Debug\netcoreapp3.1\Pregunta 3.pdb
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.csproj.AssemblyReference.cache
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta_3.Form1.resources
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.csproj.GenerateResource.cache
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.GeneratedMSBuildEditorConfig.editorconfig
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.AssemblyInfoInputs.cache
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.AssemblyInfo.cs
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.csproj.CoreCompileInputs.cache
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.dll
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.pdb
+B:\ESTUDIAR UNIVERSIDAD\6TO SEMESTRE\COM350 ARQUITECTURA DE SOFTWARE\Tarea estilos arquitectónicos\Pregunta 3\Pregunta 3\obj\Debug\netcoreapp3.1\Pregunta 3.genruntimeconfig.cache
